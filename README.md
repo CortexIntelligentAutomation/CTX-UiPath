@@ -27,15 +27,15 @@ The  module requires the following Cortex OCIs
 
 ### Files
 The CTX-UiPath module requires the following files
- [CTX-UiPath.studiopkg](httpsgithub.comCortexIntelligentAutomationCTX-Salesforcereleasesdownloadv1.0CTX-UiPath.studiopkg)
+ [CTX-UiPath.studiopkg](https://github.com/CortexIntelligentAutomation/CTX-UiPath/releases/download/v1.0/CTX-UiPath.studiopkg)
 
 ### Other
-The CTX-UiPath module has the following additional requirements which are explained in detail in the [Installation section](#Installation)Other Requirements
+The CTX-UiPath module has the following additional requirements which are explained in detail in the [Installation section](#Installation)
 
 ## Installation
-Details of the installation can be found in the [CTX-UiPath Deployment Plan](httpsgithub.comCortexIntelligentAutomationCTX-UiPathblobmasterCTX-UiPath%20-%20Deployment%20Plan.pdf).
+Details of the installation can be found in the [CTX-UiPath Deployment Plan](https://github.com/CortexIntelligentAutomation/CTX-UiPath/blob/master/CTX-UiPath%20-%20Deployment%20Plan.pdf).
 ## How to use
-A detailed User Guide has been provided with instructions on how to use the flowssubtasks, available [here](httpsgithub.comCortexIntelligentAutomationCTX-UiPathblobmasterCTX-UiPath%20-%20User%20Guide.pdf). Configuration of subtask inputs and outputs are detailed in notes on the subtask workspace.
+A detailed User Guide has been provided with instructions on how to use the flowssubtasks, available [here](https://github.com/CortexIntelligentAutomation/CTX-UiPath/blob/master/CTX-UiPath%20-%20User%20Guide.pdf). Configuration of subtask inputs and outputs are detailed in notes on the subtask workspace.
 
 ## How you can contribute
 Unfortunately, we cannot offer pull requests at this time or accept any improvements.
